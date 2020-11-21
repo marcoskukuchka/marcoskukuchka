@@ -1,8 +1,6 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hola, Soy Marcos Kukuchka 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=KukuchkaMarcos)
-
-## I'm a Husband, Father, Developer, and Teacher!!
+<!-- ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -12,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/marcoskukuchka)
+[<img src="https://now-playing-marcoskukuchka.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/marcoskukuchka)
 
 
 
