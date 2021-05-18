@@ -2,8 +2,7 @@
 
 Bienvenido a mi Github, 
 
-- 🌱   Actualmente estoy aprendiendo JavaScript.
-- 👯   Soy estudiante de la carrera Analista de Sistemas.
+- 👯   Estudiante de la carrera Analista de Sistemas.
 - 📫   Contactame: [Aqui!](mailto:marcos.kukuchka@gmail.com)
 - <img align="left" alt="Marcos Kukuchka | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> Linkedin [Aqui!](https://www.linkedin.com/in/marcos-kukuchka/)
 
